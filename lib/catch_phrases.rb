@@ -15,4 +15,8 @@ def link
   puts status
 end
 
-all_
+def all_phrases 
+  mario 
+  toadstool 
+  link 
+end 
