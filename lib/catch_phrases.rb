@@ -15,4 +15,4 @@ def link
   puts status
 end
 
-all
+all_
